@@ -1,0 +1,25 @@
+{
+  "name": "rna-transcriber",
+  "version": "1.0.0",
+  "description": "Translates a DNA string to RNA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elainechan/rna-transcriber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elainechan/rna-transcriber/issues"
+  },
+  "homepage": "https://github.com/elainechan/rna-transcriber#readme",
+  "devDependencies": {
+    "jest": "^22.0.4"
+  },
+  "dependencies": {
+    "redux": "^3.7.2"
+  }
+}
